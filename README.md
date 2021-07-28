@@ -39,4 +39,4 @@ To contribute a paper, please follow the format listed below:
 * Use the Labels to tag the category of the paper accordingly. (Currently only contributors are only allowed to issue those tags, thus we'll take care of the tagging when submissions have been recieved.)
 * Use the comments section as a place to discuss, comment, ask questions or give feedback on the paper.
 
-For proposing any meta-level changes to the arXivTimes repository, such as adding more tags, changing the template format, please create a new issue using the `proposal` tag and provide us with your feedback!
+For proposing any meta-level changes to the paper-memory repository, such as adding more tags, changing the template format, please create a new issue using the `proposal` tag and provide us with your feedback!
