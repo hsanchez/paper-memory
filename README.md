@@ -17,10 +17,13 @@ A repository for researching and sharing software engineering-related treatises.
 * Conference Related Papers
   * Among the treatises submitted to arXivTimes, the treatises submitted to academic societies are summarized by age group.
   * [ICSE](https://github.com/hsanchez/paper-memory/projects/1)
-  * [MSR](https://github.com/hsanchez/paper-memory/projects/2)
+  * [MSR](https://github.com/hsanchez/paper-memory/projects/20)
   * [FSE](https://github.com/hsanchez/paper-memory/projects/3)
-  * [ASE](https://github.com/hsanchez/paper-memory/projects/4)
-  * [ICSME](https://github.com/hsanchez/paper-memory/projects/5)
+  * [ASE](https://github.com/hsanchez/paper-memory/projects/10)
+  * [ICSME](https://github.com/hsanchez/paper-memory/projects/9)
+  * [ESEM](https://github.com/hsanchez/paper-memory/projects/5)
+* Other
+  * [ARXIV](https://github.com/hsanchez/paper-memory/projects/2)
 
 # How to Contribute
 
