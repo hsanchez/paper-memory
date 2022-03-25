@@ -22,6 +22,7 @@ A repository for researching and sharing software engineering-related treatises.
   * [ASE](https://github.com/hsanchez/paper-memory/projects/10)
   * [ICSME](https://github.com/hsanchez/paper-memory/projects/9)
   * [ESEM](https://github.com/hsanchez/paper-memory/projects/5)
+  * [CVPR](https://github.com/hsanchez/paper-memory/projects/6)
 * Other
   * [ARXIV](https://github.com/hsanchez/paper-memory/projects/2)
 
