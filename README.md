@@ -6,9 +6,9 @@ A repository for researching and sharing software engineering-related treatises.
 
 * [Article Summaries](https://github.com/hsanchez/paper-memory/issues)
   * A TL;DR or summary of the papers are maintained in the issues section of this repository.
-* [Datasets](https://github.com/hsanchez/paper-memory/tree/master/datasets)
+* [Datasets](https://github.com/hsanchez/paper-memory/tree/main/datasets)
   * All cooresponding datasets which accompany the paper reside here.
-* [Tools](https://github.com/hsanchez/paper-memory/tree/master/tools)
+* [Tools](https://github.com/hsanchez/paper-memory/tree/main/tools)
   * All tools and resources regarding implementation are listed here.
 * [Courses]
   * All MOOC courses, YouTube playlists, university lecture pages and other learning resources are provided here. 
